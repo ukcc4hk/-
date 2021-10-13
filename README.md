@@ -1,5 +1,6 @@
-## A discussion forum for Hongkonger Christians in the United Kingdom
-### 英國華人基督聚會點
+### A discussion forum for Hongkonger Christians in the United Kingdom
+
+## 英國華人基督聚會點
 
 You may find the following two functions from this repository:
 
