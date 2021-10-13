@@ -2,10 +2,7 @@
 
 ## 英國華人基督聚會點
 
-You may find the following two functions from this repository:
+##  [Go to the Discussions](https://github.com/ukcc4hk/-/discussions "Go to Discussions") 
 
-1. A Google Map link to all known UK Christian (Cantonese and Mandarin) churches locations.
-
-2. A discussion forum
-
-URL: https://www.github.com/ukcc4hk/-/wiki
+## [Click on below map to go to Interactive Map](https://www.google.com/maps/d/edit?mid=1_qab3gjgDE2nof4RQ5rFv27ivA8WnAMX&usp=sharing) 
+[![Go to the Map](https://mapswire.com/maps/countries/uk-physical-map-large.jpg)](https://www.google.com/maps/d/edit?mid=1_qab3gjgDE2nof4RQ5rFv27ivA8WnAMX&usp=sharing "Go to the Map")
