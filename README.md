@@ -1,4 +1,4 @@
-# A discussion forum for Hongkonger Christians in the United Kingdom
+# Christians Church and fellowship in the United Kingdom
 
 # 英國華人主内聚會點（互動地圖和討論區）
 
