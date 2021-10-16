@@ -14,4 +14,4 @@
 
 ### [Click on below map to go to Interactive Map 尋找教會地圖](https://www.google.com/maps/d/edit?mid=1_qab3gjgDE2nof4RQ5rFv27ivA8WnAMX&usp=sharing) 
 [![Go to the Map](https://mapswire.com/maps/countries/uk-physical-map-large.jpg)](https://www.google.com/maps/d/edit?mid=1_qab3gjgDE2nof4RQ5rFv27ivA8WnAMX&usp=sharing "Go to the Map")
-###### 本地圖部分抄錄自“英國號角”，如有違反版權問題，請與我聯系！
+###### 本地圖部分抄錄自“英國號角”，如有版權問題，請與我聯系:inhimbrian@gmail.com！
